@@ -14,7 +14,7 @@ Social Media has never this easy! With Horiseon we break down your bussiness and
  - - -
 
 
-Click  ***[here](file:///Users/lehicaldwell/Desktop/refactor-site-assignment/index.html)*** to visit website.
+Click  ***[here](https://lehicaldwel.github.io/refactor-site-assignment/)*** to visit website.
 ![Horiseon](assets/images/digital-marketing-meeting.jpg)
  
  
@@ -41,7 +41,7 @@ At the top right of the web page you will find the follow in the navigation bar:
 * [Credits](#credits)
 * [License](#license)
 * [Features](#features)
-* [Website](file:///Users/lehicaldwell/Desktop/refactor-site-assignment/index.html)
+* [Website](https://lehicaldwel.github.io/refactor-site-assignment/)
 
 
 - - -
