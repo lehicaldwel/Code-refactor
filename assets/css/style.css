@@ -8,7 +8,8 @@ body {
     background-color: #d9dcd6;
 }
 
-.header {
+/** removed the period**/
+header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
@@ -188,7 +189,8 @@ p {
     font-size: 36px;
 }
 
-.footer {
+/** removed the period **/
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
