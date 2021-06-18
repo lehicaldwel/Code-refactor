@@ -1,15 +1,15 @@
 # **Refactoring**
 > #  *Horiseon*
 
-Your number one online website to boost your bussiness to the next level!
+Your **number one** online website to ***boost*** your bussiness to the next level!
 
 Horiseon is your one stop destinantion to help find success in your bussiness!
 
-Horiseon is a fast reliable source to reach your views.
+Horiseon is a fast reliable source that will help you  reach your viewers.
 
-Horiseon gives the bussiness owners to free share and talk about their business. 
+Horiseon allows bussiness owners to freely take control of their own bussiness and the ideas and goals they set to achieve.
 
-Social Media has never this easy! With Horiseon we break down your bussiness and find the right platform for you! 
+Social Media has never this easy! With Horiseon we are able to find the right platform for you! With Horseon analytics find what yours best for your bussines!
 
  - - -
 
@@ -27,10 +27,17 @@ At the top right of the web page you will find the follow in the navigation bar:
 1. Search Engine Optimization
     - Optimize for an **increase** of visibility for your target audience online.
 2. Online Reputation Management
-    - Allows you to see what your potiental consumers are search 
+    - Allows you to see what your potiental consumers are searching for. 
 3. Social Media Marketing
     - Increase your social media lead by determining where your main source of audience are coming from.
 
+The landing page also has a side bar giving the viewer more information on how Horiseon can offer the best service to the viewer and how they can be successful.
+- Lead Gerenation
+    - Horiseon will find the best stragies to meet the need of your bussiness as well are your potential consumer.
+- Brand Awareness
+    -  Find the best way to increase your search volume.
+- Cost Management
+    - As you increase decrease the cost of your business through Horseon cost management. 
 
 - - -
 
@@ -67,5 +74,5 @@ These are the installations that where use to make this repository to happen:
 
 ___
 # Licenses
-###  *Made with ❤️️ by Horiseon*
+###  Made by [Horiseon](https://lehicaldwel.github.io/refactor-site-assignment/)
 © 2019 Horiseon Social Solution Services, Inc. brand. Confidential and Proprietary. All Rights Reserved.
